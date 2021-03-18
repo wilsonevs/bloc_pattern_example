@@ -1,6 +1,6 @@
 # bloc_pattern_example
 
-A new Flutter project.
+Patrón BLoC (BLoC pattern).
 
 ## Getting Started
 
